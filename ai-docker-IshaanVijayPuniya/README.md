@@ -9,9 +9,12 @@ flask
 nginx
 flasks is the python backend with a ML model and nginx is the server
 
-Model I used for this: My Own
+Model I used for this: My Own Movie genre classficiation
 
-open console and go cd into nginx-docker-exercise folder
+open console and go cd into ai=docker folder
+
 create and run the docker containers (linux): 'sudo docker-compose up --build'
+
 if finished, enter "localhost" in browser
+
 enter movie plot in the form on the website and press the button predict and wait for model to predict the 2 movies!
