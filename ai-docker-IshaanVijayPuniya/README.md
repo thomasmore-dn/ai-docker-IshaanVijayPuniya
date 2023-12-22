@@ -5,9 +5,8 @@ Docker and docker-compose are required!
 
 There are 2 docker containers
 
-flask
-nginx
-flasks is the python backend with a ML model and nginx is the server
+app server 
+train backend ai model
 
 Model I used for this: My Own Movie genre classficiation
 
