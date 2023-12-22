@@ -5,14 +5,14 @@ Docker and docker-compose are required!
 
 There are 2 docker containers
 
-app server 
-train backend ai model
+app and train
+used to train and run the model
 
 Model I used for this: My Own Movie genre classficiation
 
 open console and go cd into ai=docker folder
 
-create and run the docker containers (linux): 'sudo docker-compose up --build'
+create and run the docker containers __ docker-compose up --build __
 
 if finished, enter "localhost" in browser
 
