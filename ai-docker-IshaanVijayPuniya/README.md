@@ -12,7 +12,7 @@ Model I used for this: My Own Movie genre classficiation
 
 open console and go cd into ai=docker folder
 
-create and run the docker containers __ docker-compose up --build __
+create and run the docker containers __docker-compose up --build__
 
 if finished, enter "localhost" in browser
 
