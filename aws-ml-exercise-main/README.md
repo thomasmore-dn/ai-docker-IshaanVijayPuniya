@@ -1,4 +1,4 @@
-# aws-ml-exercise part 1
+# aws-ml-exercise part 1 and PART 2 IN SAGEMAKER FOLDER
 Ishaan vijay Puniya r0865976 
  AWS exercise that  uses 2 services Rekognition and Polly.
 
