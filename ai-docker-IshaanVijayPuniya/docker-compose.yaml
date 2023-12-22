@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  webserver:
+    build: ./app
+    container_name: webserver_Cloud
+    volumes:
+      - Model-File:/app/Model-File
+    ports:
+      - 8080:5002
+
+  trainer:
+    build: ./train
+    container_name: trainer_Cloud
+    volumes:
+      - Model-File:/train/Model-File
+
+volumes:
+  Model-File:
